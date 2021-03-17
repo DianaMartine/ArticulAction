@@ -28,7 +28,8 @@ além de oferecer desafios ao usuário para que o mesmo avance de level no decor
 <img width='60%' src=https://github.com/DianaMartine/ArticulAction/blob/main/public/2021-03-13-18-23-07_Trim.gif?raw=true">
 <hr>
 
-Clique [aqui](https://articulaction.vercel.app/.) para ver o projeto funcionando
+Clique <a href="https://articulaction.vercel.app/.">aqui</a>
+para ver o projeto funcionando
 
 ### Diana Martine on social media:
 
